@@ -14,8 +14,4 @@
 ```javascript
 npm i
 ```
-Затем введите следующую команду и откройте веб-сайт по адресу localhost:
 
-```javascript
-npm run dev
-```
